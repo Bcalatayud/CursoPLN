@@ -44,7 +44,7 @@ body, html {
 	width: 10%;
 	float:left;
 	text-align: right;
-	margin-left: 10%
+	margin-left: 8%
 }
 p{
 	margin: 0;
@@ -89,6 +89,7 @@ p{
 }
 h2{
 	text-align: center;
+	font-family: 'Lato', sans-serif;
 
 }
 .menu{
@@ -97,6 +98,7 @@ h2{
 	text-align: center;
 	position: fixed;
 	width: 100%;
+
 }
 
 .menu a{
