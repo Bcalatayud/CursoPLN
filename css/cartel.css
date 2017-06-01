@@ -37,7 +37,8 @@ body, html {
 
 .text2 img{
 	display: block;
-	position: absolute
+	position: absolute;
+	z-index: -100;
 }
 
 .Titulos{
