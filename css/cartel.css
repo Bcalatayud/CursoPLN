@@ -92,6 +92,7 @@ h2{
 	text-align: center;
 	font-family: 'Lato', sans-serif;
 	color: #b1945b;
+	font-size: 45px;
 
 }
 .menu{
@@ -211,5 +212,7 @@ h2{
 		padding-top: 60px;
 		visibility: visible;
 	}
-	
+	h2{
+		font-size: 20px;
+	}
 }
