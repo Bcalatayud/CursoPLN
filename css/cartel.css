@@ -91,6 +91,7 @@ p{
 h2{
 	text-align: center;
 	font-family: 'Lato', sans-serif;
+	color: #b1945b;
 
 }
 .menu{
@@ -125,6 +126,7 @@ h2{
 }
 @media screen and (max-width: 720px) {
 	.logos img, .logos2 img, .logos3 img{
+		padding-top: 30px;
 		height: 40px;
 	}
 			.logos4 img, .logos5 img{
@@ -182,6 +184,7 @@ h2{
 			height: 100px;
 		}
 	.logos img, .logos2 img, .logos3 img{
+		padding: 0px;
 		height: 30px;
 	}
 	
@@ -205,6 +208,7 @@ h2{
 	}
 	
 	.text2 img{
+		padding-top: 60px;
 		visibility: visible;
 	}
 	
